@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Bullet
+  - Enemy
+  - Boss
+  - EnemyBullet
+  - DestroyEnemy
+  - Pink
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2496501869
+    locked: 0
+  - name: Wall
+    uniqueID: 917994023
+    locked: 0
+  - name: Player
+    uniqueID: 2121156057
+    locked: 0
+  - name: Enemy
+    uniqueID: 2885225227
+    locked: 0
+  - name: Boss
+    uniqueID: 2638878603
+    locked: 0
+  - name: Bullet
+    uniqueID: 845532503
+    locked: 0
+  - name: Item
+    uniqueID: 3221579589
+    locked: 0
+  - name: UI
+    uniqueID: 3370581495
+    locked: 0
